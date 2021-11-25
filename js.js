@@ -167,3 +167,16 @@ var maktab = {
 }
 result = Object.keys(maktab)
 console.log(result);
+// Object.seal (maktab)
+// maktab.ismi = 'Ali'
+// delete maktab.yoshi
+// console.log(maktab);
+
+
+
+// console.log(maktab.ismi);
+// console.log(maktab['yoshi']);
+// maktab.sinf="9B"
+// maktab['qatori']= '1chi'
+
+// console.log(maktab);
