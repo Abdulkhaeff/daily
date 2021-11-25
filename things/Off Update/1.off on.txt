@@ -1,0 +1,13 @@
+Удаляем папку SoftwareDistribution в папке Windows и создаем пустой файл (не папку) с таким названием. Все. Windows Update запустится не сможет.
+Надо обновить — удаляем файл и обновляемся)
+Можно еще тупо на уровне NTFS прав — запретить доступ к папке. Результат — тот же.
+Вот батник для отключения обновок (запускать от имени администратора).
+net stop wuauserv
+sc config wuauserv start= disabled
+rmdir /s /q «%SystemRoot%\SoftwareDistribution\»
+cd.>%SystemRoot%\SoftwareDistribution
+
+А вот для включения обновок.
+del /q %SystemRoot%\SoftwareDistribution
+sc config wuauserv start= demand
+net start wuauserv

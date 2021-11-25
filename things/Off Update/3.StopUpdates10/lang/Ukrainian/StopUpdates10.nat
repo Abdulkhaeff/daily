@@ -1,0 +1,344 @@
+[@Info]
+Description = TLocalizer Data File
+Version = 1.0.7
+Copyright = Copyright © 2018 Greatis Software
+[StopUpdates10. @ Info]
+Language = Русский
+Copyright = Copyright © 2018 Greatis Software
+Info = Created by TLocalizer
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption = Поточний статус
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption = Є нова версія?
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption = Допомога
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption = Перевірити лог ...
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption = Інші мої програми:
+
+
+[StopUpdates10.frmScann.grid]
+Hint = Завантажити!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption = Дозволити поновлення
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption = Заборона оновлень Windows!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint = Оновити
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption = Статус:
+[StopUpdates10.frmScann.constNotfound]
+Caption = не знайдено
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption = Збій! Помилка при записі
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption = Збій! Помилка при видаленні
+[StopUpdates10.frmScann.constCannotOpen]
+Caption = Неможливо відкрити
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption = Помилка видалення ключа
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption = Спроба запуску
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption = Оновлення Windows не блокують.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption = Оновлення Windows частково заблоковані.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption = Оновлення Windows заблоковані!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption = Безкоштовна утиліта для контролю швидкості завантаження Windows і автозазпускаемих програм.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption = Утиліта для скидання налаштувань браузера Microsoft Edge.
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption = Краща програма для знищення шкідливих програм!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption = Безкоштовна програма для захисту комп&#39;ютера від прихованого Майнінг в браузері
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption = Заборона оновлень Windows
+[StopUpdates10.frmScann.constVersion]
+Caption = Версія
+[StopUpdates10.frmScann.constExecuted]
+Caption = Виконано:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption = Процес не заблокований
+[StopUpdates10.frmScann.constPleasewait]
+Caption = Будь ласка, зачекайте ...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption = Служба Windows Update не заборонена!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption = Служба оновлення Windows працює!
+
+
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption = Перезапустіть програму, щоб повернутися до інтерфейсу на англійській мові.
+[StopUpdates10.frmScann.File1]
+Caption = Файл
+[StopUpdates10.frmScann.Exit1]
+Caption = Вихід
+[StopUpdates10.frmScann.Tools1]
+Caption = Інструменти
+[StopUpdates10.frmScann.Refresh1]
+Caption = Оновити Статус
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption = Вимкнути комп&#39;ютер
+[StopUpdates10.frmScann.Help1]
+Caption = Допомога
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption = Домашня сторінка ...
+[StopUpdates10.frmScann.Language1]
+Caption = Мова
+[StopUpdates10.frmScann.Translate1]
+Caption = Перевести ...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption = Перевірити нову версію ...
+[StopUpdates10.frmScann.Settings1]
+Caption = Налаштування ...
+
+
+; Form More
+[StopUpdates10.frmOfferMore]
+Caption = Що далі?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption = Перевірити комп&#39;ютер на віруси
+Hint = Безкоштовне сканування за допомогою нашої програми UnHackMe
+[StopUpdates10.frmOfferMore.Label1]
+Caption = Успішно! Оновлення Windows заблоковані!
+[StopUpdates10.frmOfferMore.Label2]
+Caption = Що далі?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption = Взяти Автозавантаження під контроль
+Hint = Використовуйте нашу безкоштовну програму BootRacer
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption = Сказати Спасибі!
+Hint = Ваш відгук дуже важливий!
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption = Налаштування
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption = ТІЛЬКИ для Досвідчених!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption = Заборонити установку нових версій Windows
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption = Заборонити оновлення Windows
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption = Заборонити службу оновлень Windows
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption = Заборонити процеси:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption = OK
+
+[StopUpdates10.frmSettings.btCancel]
+Caption = Скасування
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption = Міняйте тільки на свій страх і ризик!
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption = Оновлення програми
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption = Перевіряти нову версію при запуску програми
+
+; 230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption = Закрити
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption = Відключити блокувальник оновлень
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption = Включити блокувальник оновлень
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption = Блокування оновлень відключений!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption = Блокування оновлень включений!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption = Блокування оновлень перевіряє стан служби оновлень Windows.
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption = Якщо служба починає працювати, то блокувальник її відключає.
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption = Блокування оновлень працює як системний сервіс, в точісле і тоді, коли користувач не увійшов в Windows.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption = Перезавантажити Windows
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption = Блокування оновлень включений
+
+; 250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption = Блокувати служби:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption = Блокування оновлень захищає від відновлення оновлень
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption = Можлива реактивація служби оновлень
+[StopUpdates10.frmScann.btUndoChanges]
+Caption = Скасування
+Hint = Скасування всіх дій
+
+; 255
+[StopUpdates10.frmScann.lblRecommend]
+Caption = Рекомендую:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption = Призупинити оновлення ...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption = Відновити поновлення
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption = Налаштування ...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint = Дізнатися більше
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption = Оновлення припинені до
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption = Оновлення можна призупинити
+
+[StopUpdates10.frmScann.constDownload]
+Caption = Завантажити
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption = Отримати оновлення для антивіруса Windows Defender
+
+[StopUpdates10.frmScann.constBlockWindows7EndofSupportService]
+Caption = Блокувати повідомлення про закінчення підтримки Windows 7
+
+[StopUpdates10.frmScann.constBlockedWindows7End]
+Caption = Заблоковано повідомлення про закінчення підтримки Windows 7
+
+
+[StopUpdates10.frmPauseUpdates]
+Caption = Призупинити поновлення
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption = Зупинити обоновленія до:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption = Зупинити піврічні великі поновлення до:
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption = Зупинити щомісячні сукупні оновлення до:
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption = OK
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption = Оновлення сигнатур для Windows Defender
+
+[StopUpdates10.frmDefender.btAbort]
+Caption = Скасувати
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption = Лог файл
+
+[StopUpdates10.frmDefender.btClose]
+Caption = Закрити
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption = Порадити
+
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption = Вимкнути Повідомлення про Закінчення
+Hint = Блокувати повідомлення про закінчення підтримки Windows
+Font.Size = 8
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption = Увімкнути Повідомлення про Закінчення
+Font.Size = 8
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint = Дізнатися більше
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption = Блокувати GWX
+Hint = Блокувати GWX (перехід на Windows 10) повідомлення і спливаючі вікна
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption = GWX заблокований
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption = GWX не знайдено

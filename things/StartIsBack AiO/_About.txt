@@ -1,0 +1,31 @@
+﻿
+    ВНИМАНИЕ!!! Если в после установки версии 2.9.x в меню Пуск наблюдаются грустные смайлы,
+                просто ПЕРЕГРУЗИТЕ систему.
+
+	Особенности репака:
+
+ 1. Совмещённые в одном дистрибутиве версии: 2.1.2 (для Windows 8), 1.7.6 (для Windows 8.1), 2.9 (для Windows 10)
+ 2. Не требует регистрации (патч pawel97)
+ 3. Мультиязычный интерфейс (включая русский)
+ 4. Возможность установки дополнительных изображений кнопок Пуск (40 шт.)
+ 5. Возможность установки трёх дополнительных стилей (для Windows 10)
+ 6. Возможность импортирования настроек из settings.reg (если находится рядом с инсталлятором)
+
+
+    "Тихая" установка с ключами /SILENT или /VERYSILENT (или файлом "Silent Install.cmd")
+
+ ******************************************************************************************************************
+
+     ATTENTION!!! If after installing the 2.9 version there are sad smiles of the Start menu reboot system.
+
+	Features repack:
+
+ 1. Combined in one installer version: 2.1.2 (for Windows 8), 1.7.6 (for Windows 8.1), 2.9 (for Windows 10)
+ 2. Does not require registration (patch pawel97)
+ 3. Multilingual interface
+ 4. The ability to install additional images of the Start button (40 pcs.)
+ 5. The ability to install three additional styles (for Windows 10)
+ 6. The ability to import settings from settings.reg (if located next to the installer) 
+
+
+   "Silent" installation with the /SILENT or /VERYSILENT switches (or the Silent Install.cmd file)

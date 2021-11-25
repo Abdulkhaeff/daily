@@ -1,0 +1,357 @@
+[@Info]
+Description=TLocalizer Data File
+Version=1.0.7
+Copyright=Copyright © 2018 Greatis Software
+[StopUpdates10.@Info]
+Language=Czech
+Copyright=Copyright © 2018 Greatis Software
+Info=Created by Filip Stepanek
+[StopUpdates10.frmScann]
+
+
+
+[StopUpdates10.frmScann.lblProtectionStatus]
+Caption=Stav ochrany
+
+
+[StopUpdates10.frmScann.lblFeedback]
+Caption=Zkontroluj aktualizace
+
+
+
+[StopUpdates10.frmScann.lblReadme]
+Caption=Nápovìda/FAQ
+
+
+
+[StopUpdates10.frmScann.btLogCheck]
+Caption=Provìø log...
+
+
+
+[StopUpdates10.frmScann.Panel2]
+Caption=Copyright  (c) Greatis Software.  Freeware  
+
+
+[StopUpdates10.frmScann.pnlWait]
+
+
+
+[StopUpdates10.frmScann.Label1]
+Caption=Poèkejte prosím...
+
+
+
+[StopUpdates10.frmScann.btSopWait]
+Caption=Zastav èekání...
+
+
+
+[StopUpdates10.frmScann.pnlApps]
+
+
+
+[StopUpdates10.frmScann.lblMyApps]
+Caption=Další aplikace:
+
+
+[StopUpdates10.frmScann.grid]
+Hint=Stáhnout!
+
+
+[StopUpdates10.frmScann.pnlButtons]
+
+
+
+[StopUpdates10.frmScann.btRemoveprot]
+Caption=Obnovit aktualizace Windows
+
+
+
+[StopUpdates10.frmScann.btStop]
+Caption=Zastavit aktualizace Windows!
+
+
+
+[StopUpdates10.frmScann.memReadMe]
+
+
+
+[StopUpdates10.frmScann.btRefresh]
+Hint=Obnovit
+
+
+
+[StopUpdates10.frmScann.panImages]
+
+
+
+[StopUpdates10.frmScann.panSteps]
+
+
+
+[StopUpdates10.frmScann.constStatus]
+Caption=Status:
+[StopUpdates10.frmScann.constNotfound]
+Caption=Nenalezeno
+[StopUpdates10.frmScann.constFailureWritingError]
+Caption=Chyba! Chyba zápisu
+[StopUpdates10.frmScann.constFailureErrorinremoval]
+Caption=Chyba! Chyba pøi odstraòování
+[StopUpdates10.frmScann.constCannotOpen]
+Caption=Nelze otevøít
+[StopUpdates10.frmScann.constKeyDeletingError]
+Caption=Chyba smazání klíèe
+[StopUpdates10.frmScann.constAttempttoRun]
+Caption=Pokus o spuštìní
+[StopUpdates10.frmScann.constWindowsUpdateisnotblocked]
+Caption=Aktualizace Windows NEJSOU blokovány.
+[StopUpdates10.frmScann.constWindowsUpdateispartiallyblocked]
+Caption=Aktualizace Windows jsou èásteènì blokovány.
+[StopUpdates10.frmScann.constWindowsUpdateisblocked]
+Caption=Aktualizace Windows JSOU blokovány!
+[StopUpdates10.frmScann.constFreetoolformonitoringWindowsboottimeslowdown]
+Caption=Bezplatný nástroj k monitorování startovacího èasu vašich Windows a dùvodu zpomalení poèítaèe.
+[StopUpdates10.frmScann.constSmallprogramforresettingtheMicrosoftEdgebrowser]
+Caption=Malý program na zresetování prohlížeèe Microsoft Edge. 
+[StopUpdates10.frmScann.constRemovefilelessmalwarerootkitsinvisiibleforantiviruses]
+Caption=Nejlepší zabiják Malwaru!
+[StopUpdates10.frmScann.constProtectsyourPCagainstwebcryptocurrencyminersFREE]
+Caption=Chrání váš poèítaè pøed webovou tìžbou kryptomìn (ZDARMA)
+[StopUpdates10.frmScann.constStopUpdatesWindows10]
+Caption=Stop Updates Windows 10
+[StopUpdates10.frmScann.constVersion]
+Caption=Verze
+[StopUpdates10.frmScann.constExecuted]
+Caption=Spuštìno:
+[StopUpdates10.frmScann.constProcessisnotblocked]
+Caption=Proces není blokovaný
+[StopUpdates10.frmScann.constPleasewait]
+Caption=Poèkejte prosím...
+[StopUpdates10.frmScann.constUpdatingServiceisnotdisabled]
+Caption=Aktualizaèní služba není vypnuta!
+[StopUpdates10.frmScann.constUpdateServiceisrunningnow]
+Caption=Aktualizaèní služba beží!
+
+
+
+;Form  More
+[StopUpdates10.frmOfferMore]
+Caption=Takže jaký bude váš další krok?
+[StopUpdates10.frmOfferMore.btScanMalware]
+Caption=Provìøit pøítomnost skrytého malwaru na vašem poèítaèi
+Hint=Bezplatný sken pomocí programu UnHackMe
+[StopUpdates10.frmOfferMore.Label1]
+Caption=Úspìšné! Aktualizace Windows byly zablokovány!
+[StopUpdates10.frmOfferMore.Label2]
+Caption=Takže jaký bude váš další krok?
+[StopUpdates10.frmOfferMore.btBootRacer]
+Caption=Pøevezmìte kontrolu nad programy spouštìnými po startu
+Hint=Použijte náš bezplatný program BootRacer
+[StopUpdates10.frmOfferMore.btThankyou]
+Caption=Øeknìte díky!
+Hint=Vaš názor je pro nás velmi dùležitý
+
+;110
+[StopUpdates10.frmScann.constNowyouhavetorestartprogramtogetEnglishinterface]
+Caption=Teï musíte restartovat program, abyste vidìli rozhraní v angliètinì.
+[StopUpdates10.frmScann.File1]
+Caption=Soubor
+[StopUpdates10.frmScann.Exit1]
+Caption=Ukonèit
+[StopUpdates10.frmScann.Tools1]
+Caption=Nástroje
+[StopUpdates10.frmScann.Refresh1]
+Caption=Obnovit stav
+[StopUpdates10.frmScann.WindowsShutdown1]
+Caption=Vypnutí Windows
+[StopUpdates10.frmScann.Help1]
+Caption=Nápovìda
+[StopUpdates10.frmScann.HomepageFAQ1]
+Caption=Navštivte domovskou stránku/FAQ...
+[StopUpdates10.frmScann.Language1]
+Caption=Jazyk
+[StopUpdates10.frmScann.Translate1]
+Caption=Pøeložit...
+[StopUpdates10.frmScann.CheckforNewVersion1]
+Caption=Ovìøit dostupnost nové verze...
+[StopUpdates10.frmScann.Settings1]
+Caption=Nastavení...
+
+; Form Settings
+[StopUpdates10.frmSettings]
+Caption=Nastavení
+
+[StopUpdates10.frmSettings.page]
+[StopUpdates10.frmSettings.tabEnabled]
+Caption=POUZE pro zkušené uživatele!
+
+[StopUpdates10.frmSettings.cbDisableOSUpgrade]
+Caption=Vypnout upgrade Windows
+
+[StopUpdates10.frmSettings.cbDisableWinupdate]
+Caption=Vypnout aktualizace Windows
+
+[StopUpdates10.frmSettings.cbDisableWUAService]
+Caption=Vypnout službu Windows Update
+
+[StopUpdates10.frmSettings.lblDisableProcesses]
+Caption=Vypnout procesy:
+
+[StopUpdates10.frmSettings.lvProc]
+
+[StopUpdates10.frmSettings.btOK]
+Caption=OK
+
+[StopUpdates10.frmSettings.btCancel]
+Caption=Zrušit
+
+[StopUpdates10.frmSettings.lblChangeonyourownrisk]
+Caption=Zmìòte POUZE pokud víte, co dìláte! 
+
+[StopUpdates10.frmSettings.tabUpdate]
+Caption=Aktualizace
+
+[StopUpdates10.frmSettings.cbNewVersionCheck]
+Caption=Provìø existenci nové verze pøi spuštìní programu
+
+
+;230
+[StopUpdates10.frmScann.btUpdatesGuard]
+[StopUpdates10.frmScann.btUpdateGuard]
+
+[StopUpdates10.frmScann.pnlStopUpdatesGuard]
+[StopUpdates10.frmScann.lblUpdatesGuardLabel]
+
+[StopUpdates10.frmScann.pnlCloseGuardPanel]
+Caption=Zavrit
+[StopUpdates10.frmScann.btDisableUpdateGuard]
+Caption=Vypnout Strazce aktualizaci
+[StopUpdates10.frmScann.btEnableUpdateGuard]
+Caption=Zapnout Strazce aktualizaci
+
+
+[StopUpdates10.frmScann.constUpdateGuardisOFF]
+Caption=Strazce aktualizac je vypnut!
+[StopUpdates10.frmScann.constUpdateGuardisON]
+Caption=Strazce aktualizac je zapnut!
+[StopUpdates10.frmScann.constUpdatesGuardpollstheWindowsupdateservicestatus]
+Caption=Strazce aktualizaci zjistuje stav sluzby Windows update.
+[StopUpdates10.frmScann.constIftheWindowsupdateservicewillstart]
+Caption=Pokud se spusti sluba Windows update, Strazce ji vypne.
+[StopUpdates10.frmScann.constUpdateGuardworksinthebackground]
+Caption= Strazce aktualizac bezi na pozadi jako sluzba. Chrani vas, i kdyz nejste pihlaseni do Windows.
+
+[StopUpdates10.frmScann.RestartWindows1]
+Caption=Restartovat Windows
+
+[StopUpdates10.frmSettings.cbUpdateGuard]
+Caption=Strazce aktualizac je AKTIVNI
+
+;250
+[StopUpdates10.frmSettings.lblDisableServices]
+Caption=Vypnout sluzby:
+[StopUpdates10.frmSettings.lvServ]
+[StopUpdates10.frmScann.constUpdatesGuardautomaticallyprotectsinthebackground]
+Caption=Strazce aktualizaci bezi na pozadi a automaticky vas chrani.
+[StopUpdates10.frmScann.constWindowsupdateblockingisnotprotected]
+Caption=Blokovani Windows update neni chraneno
+[StopUpdates10.frmScann.btUndoChanges]
+Caption=Zrusit
+Hint=Zrusit provedene zmeny
+
+;255
+[StopUpdates10.frmScann.lblRecommend]
+Caption=Doruceno pro vas:
+
+
+[StopUpdates10.frmScann.pnlPauseUpdates]
+
+[StopUpdates10.frmScann.lblPauseUpdateStatus]
+
+[StopUpdates10.frmScann.btPauseUpdates]
+Caption=Pozastavit aktualizace...
+
+[StopUpdates10.frmScann.btResumeUpdates]
+Caption=Spustit aktualizace
+
+[StopUpdates10.frmScann.btPauseUpdateOptions]
+Caption=Moznosti...
+
+
+[StopUpdates10.frmScann.btPauseUpdatesInfo]
+Hint=Dalsi informace
+
+
+[StopUpdates10.frmScann.constUpdatespauseduntil]
+Caption=Aktualizace pozastaveny do
+
+[StopUpdates10.frmScann.constYoucanpauseinstallingupdates]
+Caption=Pozastavit instalaci aktualizaci
+
+[StopUpdates10.frmScann.constDownload]
+Caption=Stazeni
+
+[StopUpdates10.frmScann.UpdateWindowsDefenderSignatures1]
+Caption=Aktualizuj definice Windows Defenderu
+
+[StopUpdates10.frmPauseUpdates]
+Caption=Pozastavit aktualizace
+
+[StopUpdates10.frmPauseUpdates.lblPauseUpdates]
+Caption=Pozastavit aktualizace do:
+
+[StopUpdates10.frmPauseUpdates.lblPauseFeaturesUpdates]
+Caption=Pozastavit upgrady Windows (nove verze Windows 2x do roka)
+
+[StopUpdates10.frmPauseUpdates.lblPauseQualityUpdates]
+Caption=Pozastavit mesicni aktualizace (kumulativni zaplaty)
+
+[StopUpdates10.frmPauseUpdates.btOK]
+Caption=OK
+
+[StopUpdates10.frmPauseUpdates.dtPauseUpdates]
+
+[StopUpdates10.frmPauseUpdates.dtPauseFeatures]
+
+[StopUpdates10.frmPauseUpdates.dtPauseQuality]
+
+
+[StopUpdates10.frmDefender]
+Caption=Aktualizuji definice Windows Defenderu
+
+[StopUpdates10.frmDefender.btAbort]
+Caption=Zrusit
+
+[StopUpdates10.frmDefender.pnlBot]
+
+[StopUpdates10.frmDefender.btCheckLog]
+Caption=Proverit log
+
+[StopUpdates10.frmDefender.btClose]
+Caption=Zavrit
+
+[StopUpdates10.frmScann.SuggestaFeature1]
+Caption=Navrhnìte novou funkci
+
+[StopUpdates10.frmScann.btDisableEOS]
+Caption=Vypnout notifikace EOS
+Hint=Blokuje hlaseni o ukonceni podpory
+
+[StopUpdates10.frmScann.btEnable7EOS]
+Caption=Zapnout notifikace EOS
+
+[StopUpdates10.frmScann.btWin7Info]
+Hint=Dalsi informace
+
+[StopUpdates10.frmScann.btDisableGWX]
+Caption=Vypnout GWX
+Hint=Vypne upozorneni a vyskakovaci okna "Ziskejte Windows 10"
+
+[StopUpdates10.frmScann.lblGWXNotfound]
+
+[StopUpdates10.frmScann.constGWXisdisabled]
+Caption=GWX je vypnuty
+
+[StopUpdates10.frmScann.constGWXGetWidows10isnotfound]
+Caption=GWX (Ziskat Widows 10) nenalezen.
