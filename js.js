@@ -190,6 +190,10 @@
 // console.log(a+b);
 
 
-const elbek = 22;
-const user = "Abdulkhaeff"
-console.log(elbek.user);
+// const elbek = 22;
+// const user = "Abdulkhaeff"
+// console.log(elbek.user);
+
+
+let c = 7;
+console.log(7**8);
