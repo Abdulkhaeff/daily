@@ -185,6 +185,11 @@
 
 
 
-var a = 8;
-var b = 10;
-console.log(a+b)
+// var a = 8;
+// var b = 10;
+// console.log(a+b);
+
+
+const elbek = 22;
+const user = "Abdulkhaeff"
+console.log(elbek.user);
